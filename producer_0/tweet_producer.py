@@ -20,10 +20,10 @@ class TweetsProducer():
     def _connect_to_tweetAPI(self):
 
         # twitter setup ## fill here
-        consumer_key = "fDWZ7bd7l2iYzyZdeZbz2Kv0s"
-        consumer_secret = "u1FsSOGTCPKPXeQXvHltK0yu1Oo2utjTYJEWRAxcEqM0Yghn3K"
-        access_token = "939519071380525058-csGMphZlQY25exMW9zZ6LH3nrs1e6xJ"
-        access_token_secret = "Lj52HnyIpPpFhSvnVyq0yfjKpfqTKCt7vNfmQHd3p7HdP"
+        consumer_key = " "
+        consumer_secret = " "
+        access_token = " "
+        access_token_secret = " "
 
         try:
             # Creating the authentication object
